@@ -1,8 +1,4 @@
 # slackapp-chatgpt
+ChatGPTが応答するslackのチャットボット
 
-## 準備
-``` bash
-python -m venv ENV
-. ./ENV/bin/activate
-```
-
+「[ChatGPT/LangChainによるチャットシステム構築［実践］入門](https://amzn.asia/d/73rwuSo)」第７章の実習
